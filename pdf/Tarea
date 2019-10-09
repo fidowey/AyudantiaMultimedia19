@@ -1,0 +1,5 @@
+Tarea
+realizar ecuacion de segundo grado cuyos resultados deben estar en un codigo qr
+exportar un excel que muestre sus valores ( a,b y c)  , resultado y path del codigo qr
+exportar un pdf con los valores , resultado y mostrando el qr 
+pueden ocupar otra libreria de pdf
